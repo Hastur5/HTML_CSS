@@ -1,3 +1,7 @@
-body{
-    background-color: grey;
+:root{
+    --color1: #f8b78b;
 }
+body{
+    font-family: sans-serif;
+    background-color: var(--color1);
+    background-image: url(../img/fondoTop.svg),;
