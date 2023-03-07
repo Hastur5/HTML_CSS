@@ -1,3 +1,9 @@
+:root {
+  --color1: #f8b78b;
+}
+
 body {
-  background-color: grey;
+  font-family: sans-serif;
+  background-color: var(--color1);
+  background-image: url(../img/fondoTop.svg), url(../img/fondoBotton.svg);
 }/*# sourceMappingURL=style.css.map */
